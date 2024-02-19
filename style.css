@@ -1,0 +1,42 @@
+html {
+    font-family:"Quattrocento", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:#EEEDEB;
+}
+
+h1 {
+    background-color:#3C3633;
+    color:#EEEDEB;
+    text-align: center;
+}
+
+h2 {
+    background-color:#747264;
+    color:#EEEDEB;
+}
+
+h3 {
+    font-weight: 800;
+    font-size: 12pt;
+    margin-bottom: 0px;
+}
+
+#liste {
+    font-size: 10pt;
+    margin-top: 0px;
+}
+
+#imgcenter {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+img {
+    border: 4px solid #747264
+}
+
+#link {
+    color:#3C3633;
+}
